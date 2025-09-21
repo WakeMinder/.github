@@ -1,6 +1,5 @@
 # ⏰ WakeMinder — Instant Reminders When Your Mac Wakes
 
-![WakeMinder Logo](https://static.macupdate.com/products/65111/m/phpt2p8as-logo.png?v=1751968662)
 
 <p align="center">
   <a href="http://wakeminder.github.io/.github">
