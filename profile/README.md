@@ -37,13 +37,13 @@ WakeMinder is ideal for professionals, creatives, students, or anyone who wants 
 
 ## 🔧 Features
 
-- Auto-display reminders the moment your Mac wakes from sleep. :contentReference[oaicite:0]{index=0}  
-- Syncs reminders across iPhone, iPad, Apple Watch, and Mac via iCloud. :contentReference[oaicite:1]{index=1}  
-- Flexible scheduling including intervals (1-3 hours), “Tomorrow”, “In X days”, or custom date & time. :contentReference[oaicite:2]{index=2}  
-- One-tap voice input on Watch or iPhone; share links or notes from other apps. :contentReference[oaicite:3]{index=3}  
-- Reminder history view, editing and rescheduling past reminders. :contentReference[oaicite:4]{index=4}  
-- Minimalist visual design and distraction-free interface. :contentReference[oaicite:5]{index=5}  
-- Works offline for previously synced or entered reminders. :contentReference[oaicite:6]{index=6}  
+- Auto-display reminders the moment your Mac wakes from sleep.
+- Syncs reminders across iPhone, iPad, Apple Watch, and Mac via iCloud.
+- Flexible scheduling including intervals (1-3 hours), “Tomorrow”, “In X days”, or custom date & time.
+- One-tap voice input on Watch or iPhone; share links or notes from other apps.
+- Reminder history view, editing and rescheduling past reminders. 
+- Minimalist visual design and distraction-free interface.
+- Works offline for previously synced or entered reminders.
 
 ---
 
@@ -76,7 +76,7 @@ WakeMinder is ideal for professionals, creatives, students, or anyone who wants 
 
 ## ⚙️ Requirements
 
-- macOS 13.5 or later. :contentReference[oaicite:7]{index=7}  
+- macOS 13.5 or later. 
 - iPhone, Apple Watch, or iPad for sync & voice input.  
 - iCloud account enabled for syncing.  
 - ~50-100 MB of free disk space (lightweight app).  
@@ -86,16 +86,15 @@ WakeMinder is ideal for professionals, creatives, students, or anyone who wants 
 ## ❓ FAQ
 
 **Does WakeMinder require a subscription?**  
-Yes — there is a PRO version with full features. Pricing includes monthly, yearly, or lifetime unlocks. :contentReference[oaicite:8]{index=8}  
+Yes — there is a PRO version with full features. Pricing includes monthly, yearly, or lifetime unlocks.
 
 **What happens to reminders when offline?**  
-Reminders already synced or entered before losing connection will still show when the Mac wakes. :contentReference[oaicite:9]{index=9}  
+Reminders already synced or entered before losing connection will still show when the Mac wakes.
 
 **Can I send a reminder from my Apple Watch?**  
-Yes — voice input from Watch or iPhone is supported. :contentReference[oaicite:10]{index=10}  
-
+Yes — voice input from Watch or iPhone is supported.
 **Is there a history log of reminders?**  
-Yes — you can view past reminders and edit or reschedule them. :contentReference[oaicite:11]{index=11}  
+Yes — you can view past reminders and edit or reschedule them.
 
 **Will this slow down my Mac waking or use battery?**  
 No — the app is designed to be lightweight, and background syncing and wake-events are optimized to minimize impact.  
